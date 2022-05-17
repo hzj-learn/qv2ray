@@ -1,0 +1,7 @@
+sudo chmod +x ./Qv2ray-refs.tags.v1.99.6-linux.AppImage
+
+./Qv2ray-refs.tags.v1.99.6-linux.AppImage
+
+
+谷歌搜一下Ubuntu16.04怎么安装v2ray就行了
+
